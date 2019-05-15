@@ -1,13 +1,3 @@
-/*
-Trabalho Realizado por:
--Ricardo Costa 13240
--Tiago Gonçalves 13250
--Joao Pedro Magalhaes 14155
-ESI Laboral 2017-2018
-Trabalho Pratico de Processamento de Linguagens - Enunciado 3
-*/
-
-
 #ifndef __EXCEL_H__
 #define __EXCEL_H__
 
